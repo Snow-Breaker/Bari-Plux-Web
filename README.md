@@ -30,6 +30,16 @@ The latest refresh returns to the classic Bari Plux identity and background, pai
 - [Bari Plux Tool](https://github.com/Snow-Breaker/Bari-Plux-Tool) — PC software, officially launched on 16 November 2025; WinUI 3 rewrite released on 12 October 2026.
 - **BPT Android — Coming Soon.**
 
+## Product help
+
+| Looking for | Start here |
+| :--- | :--- |
+| Current downloads and product information | [Official BPT product page](https://bariplux.com/tool) |
+| Installation and first use | [Getting started](https://github.com/Snow-Breaker/Bari-Plux-Tool/blob/main/GETTING-STARTED.md) |
+| Bug reports, feature suggestions or help | [Support & feedback](https://github.com/Snow-Breaker/Bari-Plux-Tool/blob/main/SUPPORT.md) |
+| Confirmed release milestones | [Changelog](https://github.com/Snow-Breaker/Bari-Plux-Tool/blob/main/CHANGELOG.md) |
+| Future plans and Android status | [Roadmap](https://github.com/Snow-Breaker/Bari-Plux-Tool/blob/main/ROADMAP.md) |
+
 ## About this repository
 
 This repository is a public website overview. The website source repository remains private.
